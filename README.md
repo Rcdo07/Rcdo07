@@ -115,9 +115,9 @@ I have worked on:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xrmdevops&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rcdo07&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrmdevops&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcdo07&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -128,4 +128,4 @@ I have worked on:
 - 📧 ivanrs07@outlook.com
 - 💼 LinkedIn: https://linkedin.com/in/ricardo-sanchez
 - 🌍 https://xrmdevops.netlify.app
-- 💻 https://github.com/xrmdevops
+- 💻 https://github.com/Rcdo07
