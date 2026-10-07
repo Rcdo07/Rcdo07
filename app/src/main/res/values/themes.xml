@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.VozPublica" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#91BAFF</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#11151C</item>
+        <item name="android:navigationBarColor">#11151C</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
