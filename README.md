@@ -10,6 +10,16 @@ Building enterprise solutions on Microsoft Dynamics 365 for more than 9 years.
 
 ---
 
+## 🇵🇦 Voz Pública — opiniones ciudadanas
+
+Aplicación nativa para Android, desarrollada en Kotlin y Jetpack Compose, para explorar opiniones de ejemplo sobre instituciones públicas en las diez provincias de Panamá.
+
+Abre el proyecto con Android Studio y ejecútalo en un emulador o dispositivo Android. Las calificaciones y opiniones son de muestra y no provienen de Google; los nombres y ubicaciones solo sirven como referencia para el prototipo.
+
+Para conectar datos reales se requiere integrar un proveedor autorizado. Google Places API requiere una clave de API y puede devolver hasta cinco reseñas por lugar; no proporciona el historial completo de opiniones. Antes de publicar, también se deben verificar los lugares y respetar los requisitos de atribución y uso de datos del proveedor.
+
+---
+
 ## 👨‍💻 About me
 
 - 💼 Microsoft Dynamics 365 CRM Specialist
