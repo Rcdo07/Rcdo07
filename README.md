@@ -1,28 +1,28 @@
-<h1 align="center">Hola 👋, soy Ricardo Sánchez</h1>
+<h1 align="center">Hi 👋, I'm Ricardo Sánchez</h1>
 
 <h3 align="center">
-Desarrollador Full-Stack Microsoft Dynamics 365 | C# | Plugins | SQL Server | Power Platform
+Full-Stack Microsoft Dynamics 365 Developer | C# | Plugins | SQL Server | Power Platform
 </h3>
 
 <p align="center">
-Construyendo soluciones empresariales sobre Microsoft Dynamics 365 desde hace más de 9 años.
+Building enterprise solutions on Microsoft Dynamics 365 for more than 9 years.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About me
 
-- 💼 Especialista en Microsoft Dynamics 365 CRM
-- ⚙️ Desarrollo de Plugins en C#
-- 🗄️ SQL Server, SSIS y SSRS
-- 🔄 Integraciones ERP (Dynamics GP, Softland)
+- 💼 Microsoft Dynamics 365 CRM Specialist
+- ⚙️ C# Plugin development
+- 🗄️ SQL Server, SSIS, and SSRS
+- 🔄 ERP integrations (Dynamics GP, Softland)
 - ☁️ Power Platform (Power Apps & Power Automate)
-- 🌎 Penonomé, Coclé, Panamá
+- 🌎 Penonomé, Coclé, Panama
 - 📫 **ivanrs07@outlook.com**
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Technologies
 
 <p>
 
@@ -47,62 +47,62 @@ Construyendo soluciones empresariales sobre Microsoft Dynamics 365 desde hace m�
 
 ---
 
-## 💼 Experiencia
+## 💼 Experience
 
-✔ Más de **9 años** desarrollando soluciones empresariales.
+✔ More than **9 years** developing enterprise solutions.
 
-He trabajado en:
+I have worked on:
 
 - Microsoft Dynamics 365 CRM
 - Customer Engagement
 - Sales
 - Customer Service
 - Finance & Operations
-- Integraciones ERP
-- Automatización de procesos
-- Arquitectura de soluciones empresariales
+- ERP integrations
+- Process automation
+- Enterprise solution architecture
 
 ---
 
-## ⭐ Proyectos Destacados
+## ⭐ Featured Projects
 
-### 💰 Motor de Recálculo de Precios
+### 💰 Price Recalculation Engine
 
 - SQL Server Triggers
-- Lógica tributaria
-- Operaciones Set-Based
-- Optimización de rendimiento
+- Tax logic
+- Set-based operations
+- Performance optimization
 
 ---
 
-### 🔄 Integración Dynamics 365 + Softland
+### 🔄 Dynamics 365 + Softland Integration
 
 - SSIS
 - SQL Server
 - Dynamics GP
-- Resolución de conflictos de sincronización
+- Synchronization conflict resolution
 
 ---
 
-### ⚖️ Gestión de Honorarios Legales
+### ⚖️ Legal Fees Management
 
-- Plugins C#
+- C# Plugins
 - JavaScript
 - OData
 - Dynamics 365
 
 ---
 
-### 🔐 Visor de Roles de Seguridad
+### 🔐 Security Roles Viewer
 
 - JavaScript
 - OData v9.2
-- Exportación Excel
+- Excel export
 - SheetJS
 
 ---
 
-## 🏆 Certificaciones
+## 🏆 Certifications
 
 - Microsoft Certified Professional
 - Microsoft Specialist CRM 2016
@@ -123,7 +123,7 @@ He trabajado en:
 
 ---
 
-## 🌐 Contacto
+## 🌐 Contact
 
 - 📧 ivanrs07@outlook.com
 - 💼 LinkedIn: https://linkedin.com/in/ricardo-sanchez
